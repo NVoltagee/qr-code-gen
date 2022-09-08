@@ -4,5 +4,5 @@
 
 ## Tech Stack
 - HTML
-- [Tailwind CSS] (https://tailwindcss.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - JavaScript
